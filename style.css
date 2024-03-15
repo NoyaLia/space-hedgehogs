@@ -1,0 +1,204 @@
+body {
+  background: url(background.jpg);
+  height: 100%;
+  width: 100%;
+  font-family: Staatliches;
+  text-align: center;
+}
+#about{
+  background: url(background.jpg);
+  height: 100%;
+  width: 100%;
+  font-family: Staatliches;
+  direction: rtl;
+}
+#munachim{
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+  text-align: right;
+}
+
+button {
+  background-color: #000000;
+  color: #f3ecdd;
+  font-family: "Copperplate", Fantasy;
+  align-items: center;
+  appearance: none;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-flex;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s, transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow, transform;
+  font-size: 18px;
+}
+
+#nR1 {
+  background-color: rgb(24,162,188);
+}
+
+#nR2 {
+  color: rgb(24,162,188);
+}
+
+button:hover {
+  background-color: #2f4b65;
+  color: #f3ecdd;
+  font-family: "Copperplate", Fantasy;
+  align-items: center;
+  appearance: none;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-flex;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s, transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow, transform;
+  font-size: 18px;
+}
+
+#nR1:hover {
+  background-color: #2f4b65;
+  color: #f3ecdd;
+  font-family: "Copperplate", Fantasy;
+  align-items: center;
+  appearance: none;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-flex;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s, transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow, transform;
+  font-size: 18px;
+}
+
+h1 {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+}
+
+h2 {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+}
+
+h3 {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+}
+
+h4 {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+}
+
+p {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+}
+
+a {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+}
+
+ul {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+  text-align: left;
+  margin-right: 30px;
+}
+
+form {
+  color: #f8f9f0;
+  font-family: "Copperplate", Fantasy;
+}
+
+meter::-webkit-meter-optimum-value {
+  background: red;
+}
+
+meter::-webkit-meter-bar {
+  background: white;
+}
+
+#bigLogo {
+  width: auto;
+  height: 6cm;
+}
+
+#room {
+  width: 10cm;
+  height: auto;
+}
+
+#small{
+  width: 0.5cm;
+  height: auto;
+}
+
+#roomCenter {
+  position: relative;
+  width: 100%;
+}
+
+#backGround {
+  text-align: left;
+  padding: 15px;
+  height: 220px;
+  overflow: scroll;
+}
+
+#whoWasShe{
+  text-align: left;
+  padding: 15px;
+  height: 200px;
+  overflow: scroll;
+}
